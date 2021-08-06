@@ -294,6 +294,16 @@ p.citation {
     padding: 10px;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
+@media (max-width: 767px) {
+    .nav>li {
+        background: #F3976C!important;
+    }
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
