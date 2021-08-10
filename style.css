@@ -298,12 +298,12 @@ p.citation {
 html {
     scroll-behavior: smooth;
 }
-
+/*
 .img-responsive.portfolio-thumb {
     width: 270px;
     height: 270px;
     margin: 0;
-}
+}*/
 
 @media (max-width: 767px) {
     .nav>li {
