@@ -298,6 +298,11 @@ p.citation {
 html {
     scroll-behavior: smooth;
 }
+
+.portfolio-thumb {
+    margin: auto;
+}
+
 /*
 .img-responsive.portfolio-thumb {
     width: 270px;
@@ -674,9 +679,10 @@ h4 {
     font-size: 16px;
 }
 
+/*
 .portfolio-thumb {
     margin-bottom: 24px;
-}
+}*/
 
 .portfolio-row {
     margin-bottom: 44px;
@@ -747,6 +753,7 @@ h4 {
     color: #364577!important;
     border-color: #364577!important;
 }
+
 /*
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
