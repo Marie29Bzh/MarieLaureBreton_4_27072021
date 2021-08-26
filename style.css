@@ -308,6 +308,13 @@ figcaption {
     color: #333333;
 }
 
+@font-face {
+    font-family: "et-line";
+    src: url("//db.onlinewebfonts.com/t/ee5d74f0b75c5754c723eb16d34e3d65.eot");
+    src: url("//db.onlinewebfonts.com/t/ee5d74f0b75c5754c723eb16d34e3d65.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/ee5d54f023b75c16") format("woff2"), url("//db.onlinewebfonts.com/t/ee5d74f0b75c5754c723eb16d34e3d65.woff") format("woff"), url(" //db.onlinewebfonts.com/t/ee5d74f0b75c5754c723eb16d34e3d65.svg#et-line") format("svg");
+    font-display: swap;
+}
+
 /*
 .img-responsive.portfolio-thumb {
     width: 270px;
