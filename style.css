@@ -308,13 +308,6 @@ figcaption {
     color: #333333;
 }
 
-/*
-.img-responsive.portfolio-thumb {
-    width: 270px;
-    height: 270px;
-    margin: 0;
-}*/
-
 @media (max-width: 767px) {
     .nav>li {
         background: #F3976C!important;
@@ -684,11 +677,6 @@ h4 {
     font-size: 16px;
 }
 
-/*
-.portfolio-thumb {
-    margin-bottom: 24px;
-}*/
-
 .portfolio-row {
     margin-bottom: 44px;
     margin-top: 50px;
@@ -758,11 +746,6 @@ h4 {
     color: #364577!important;
     border-color: #364577!important;
 }
-
-/*
-.bg-dots-bg {
-    background-image: url("img/dots-bg.png");
-}*/
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
