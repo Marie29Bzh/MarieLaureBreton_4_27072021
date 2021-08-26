@@ -303,6 +303,10 @@ html {
     margin: auto;
 }
 
+figcaption {
+    font-size: 18px;
+}
+
 /*
 .img-responsive.portfolio-thumb {
     width: 270px;
